@@ -1,0 +1,37 @@
+body {
+    font: normal 15pt Arial;
+    text-align: center;
+}
+
+header {
+    color: white;
+}
+
+section {
+    background-color: white;
+    border-radius: 10px;
+    padding: 25px;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+}
+
+.horario-agora{
+    margin: 0;
+}
+
+.imagem{
+    border-radius: 50%;
+    width: 210px;
+    height: 210px;
+    object-fit: cover;
+}
+
+footer {
+    color: white;
+    font-style: italic;
+}
