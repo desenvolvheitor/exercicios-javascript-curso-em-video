@@ -1,6 +1,6 @@
 function tabuada() {
     var numero = document.querySelector(".numero")
-    var resultado =  document.querySelector(".resultado")
+    var resultado = document.querySelector(".resultado")
 
     resultado.innerText = ""
 
